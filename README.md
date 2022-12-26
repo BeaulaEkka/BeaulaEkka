@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BeaulaEkka
 - 👀 I’m interested in collaborating in projects.
 - 🌱 I’m currently learning Front End Development from Winc Academy, Amsterdam
-- + www.courses.webdevsimplified.com/
+- + https://courses.webdevsimplified.com/
 - + https://www.kevinpowell.co/
 - + www.theodinproject.com 
 - + www.freecodecamp.org
