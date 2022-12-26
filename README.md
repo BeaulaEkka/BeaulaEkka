@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @BeaulaEkka
 - 👀 I’m interested in collaborating in projects.
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front End Development from Winc Academy, Amsterdam
+- + www.courses.webdevsimplified.com/
+- + https://www.kevinpowell.co/
+- + www.theodinproject.com 
+- + www.freecodecamp.org
+- + www.frontendmentor.io
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript etc
 - 📫 How to reach me :leave me a message in github
 
