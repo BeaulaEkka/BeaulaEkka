@@ -6,6 +6,7 @@
 - + www.theodinproject.com 
 - + www.freecodecamp.org
 - + www.frontendmentor.io
+- + www.codepen.io
 - 💞️ I’m looking to collaborate on HTML, CSS, JavaScript etc
 - 📫 How to reach me :leave me a message in github
 
