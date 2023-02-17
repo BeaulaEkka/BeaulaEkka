@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeaulaEkka                                                                                                          
 
-"I have had the pleasure of diving into multiple exciting roles in my career, from facilitating learning and development as a trainer, to expressing my creativity as a graphic designer, and providing IT support. However, I've always had a natural curiosity and passion for coding, and now I'm finally ready to dive headfirst into the world of code development with enthusiasm and eagerness for what lies ahead!"
+"I have had the pleasure of diving into multiple exciting roles in my career, from facilitating learning and development as a trainer, to expressing my creativity as a graphic designer, and to providing IT support. However, I've always had a natural curiosity and passion for coding, and now I'm finally ready to dive headfirst into the world of code development with enthusiasm and eagerness for what lies ahead!"
                                                                                                         
 - 👀 I’m interested in collaborating in projects and finding a job.
 - 🌱 I’m currently learning Front End Development from Winc Academy, Amsterdam ++
