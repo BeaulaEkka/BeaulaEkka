@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeaulaEkka
-"Believe you can and you're halfway there." - Theodore Roosevelt      Cancel changes
+"Believe you can and you're halfway there." - Theodore Roosevelt  
 
 "I have had the pleasure of diving into multiple exciting roles in my career, from facilitating learning and development as a trainer, to expressing my creativity as a graphic designer, and providing IT support. However, I've always had a natural curiosity and passion for coding, and now I'm finally ready to dive headfirst into the world of code development with enthusiasm and eagerness for what lies ahead!"
 
