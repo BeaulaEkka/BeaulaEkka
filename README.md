@@ -4,7 +4,7 @@
                                                                                                         
 - 👀 I’m interested in collaborating in projects and finding a job.
 - 🌱 I’m currently learning Front End Development from Winc Academy, Amsterdam ++
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript etc.      
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, React and Wordpress projects etc.      
 - 📫 How to reach me :mail me ekka.beaula@gmail.com                                                                                     
                        
 <!---                   
