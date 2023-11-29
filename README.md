@@ -10,7 +10,7 @@
 
 
                                                                                   
-#### HTML | CSS | Javascript | React | Next.js | Node.js | Tailwind | PHP | Wordpress | Git | Photoshop | Illustrator |  Indesign | XD | Lightroom |  Figma  | Cinema4D                
+#### HTML | CSS | Javascript | Typescript | React | Next.js | Node.js | Tailwind | PHP | Wordpress | JQuery | SQL | Git | Photoshop | Illustrator |  Indesign | XD | Lightroom |  Figma  | Cinema4D                
 <!---                   
 BeaulaEkka/BeaulaEkka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
