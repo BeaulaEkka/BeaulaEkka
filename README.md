@@ -3,7 +3,7 @@
 "I have had the pleasure of diving into multiple exciting roles in my career, from facilitating Learning and Development as a corporate Trainer, to expressing my creativity as a Graphic Designer, and to providing Desktop & IT Support. However, I've always had a natural curiosity and passion for coding, and now I'm finally ready to dive headfirst into the world of code development with enthusiasm and eagerness for what lies ahead!"
                                                                                                        
                                                                                 
-#### HTML | CSS | Javascript | Typescript | React | Next.js | Vue.js | Node.js | Tailwind | PHP | Laravel | Wordpress | JQuery | SQL | JAVA | Git | Photoshop | Illustrator |  Indesign | XD | Lightroom |  Figma   
+#### HTML | CSS | Javascript | Typescript | React | Next.js | Vue.js | Nuxt | Node.js | Tailwind CSS | SCSS | PHP | Laravel | Wordpress | JQuery | SQL | JAVA | Git | Photoshop | Illustrator |  Indesign | XD | Lightroom |  Figma   
 
 - 👀 I’m interested in collaborating in projects and finding a job.
    - How to reach me :
