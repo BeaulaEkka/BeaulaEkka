@@ -6,8 +6,9 @@
 #### HTML | CSS | Javascript | Typescript | React | Next.js | Vue.js | Node.js | Tailwind | PHP | Laravel | Wordpress | JQuery | SQL | JAVA | Git | Photoshop | Illustrator |  Indesign | XD | Lightroom |  Figma   
 
 - 👀 I’m interested in collaborating in projects and finding a job.
-   - 📫 How to reach me :mail me ekka.beaula@gmail.com
-   - [www.beaula.vercel.app](https://beaula.vercel.app/) 
+   - How to reach me :
+   - 📫 mail me ekka.beaula@gmail.com
+   - 📫 [www.beaula.vercel.app](https://beaula.vercel.app/) 
 <!---                   
 BeaulaEkka/BeaulaEkka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
